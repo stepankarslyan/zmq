@@ -1,0 +1,11 @@
+{
+  "name": "mobileApp",
+  "version": "0.0.1",
+  "description": "Awesome_mobile_app",
+  "private": true,
+    
+  "dependencies": {
+  	"zmq":"*"
+  }
+  
+}
